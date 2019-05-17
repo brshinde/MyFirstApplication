@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="sample">DEMO Application</string>
+
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+
+    <string-array name="city_array">
+        <item>Solapur</item>
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+    </string-array>
+
+    <string-array name="state_array">
+        <item>Maharasthra</item>
+        <item>andra Pradesh</item>
+        <item>UP</item>
+        <item>Telangana</item>
+    </string-array>
+</resources>
